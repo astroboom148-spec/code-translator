@@ -1,0 +1,6 @@
+{
+  "name": "Code Translator",
+  "description": "An expert AI Code Translation Engine to translate source code from one programming language to another using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
